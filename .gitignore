@@ -1,0 +1,6 @@
+/server/vendor
+mestead.json
+Homestead.yaml
+.env
+.DS_Store
+
