@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:4:{s:2:"id";a:7:{s:4:"name";s:2:"id";s:4:"type";s:7:"int(11)";s:7:"notnull";b:0;s:7:"default";N;s:7:"primary";b:1;s:7:"autoinc";b:1;s:7:"comment";s:0:"";}s:3:"nid";a:7:{s:4:"name";s:3:"nid";s:4:"type";s:7:"int(11)";s:7:"notnull";b:0;s:7:"default";s:1:"0";s:7:"primary";b:0;s:7:"autoinc";b:0;s:7:"comment";s:17:"查看的通知id";}s:3:"uid";a:7:{s:4:"name";s:3:"uid";s:4:"type";s:7:"int(11)";s:7:"notnull";b:0;s:7:"default";s:1:"0";s:7:"primary";b:0;s:7:"autoinc";b:0;s:7:"comment";s:23:"查看通知的用户id";}s:8:"add_time";a:7:{s:4:"name";s:8:"add_time";s:4:"type";s:7:"int(11)";s:7:"notnull";b:0;s:7:"default";s:1:"0";s:7:"primary";b:0;s:7:"autoinc";b:0;s:7:"comment";s:21:"查看通知的时间";}}
