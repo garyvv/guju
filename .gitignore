@@ -5,3 +5,5 @@ Homestead.yaml
 .DS_Store
 wechat_app
 makeups_app
+makeups_bd_app
+jinli_app
